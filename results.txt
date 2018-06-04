@@ -1,0 +1,229 @@
+*****size =100******
+Doc2vec LogisticRegression: 
+window = 1
+Accuracy: 
+0.148016979988
+window = 2
+Accuracy: 
+0.375694360218
+window = 3
+Accuracy: 
+0.375112189206
+window = 4
+Accuracy: 
+0.374675560946
+window = 5
+Accuracy: 
+0.374918132201
+window = 6
+Accuracy: 
+0.360388114008
+window = 7
+Accuracy: 
+0.358326258338
+window = 8
+Accuracy: 
+0.348744693754
+window = 9
+Accuracy: 
+0.3531594906
+window = 10
+Accuracy: 
+0.353571861734
+
+******size =100 ,window =2******
+Doc2vec KNN:
+k = 2
+Accuracy: 
+0.37884778653729534
+k = 3
+Accuracy: 
+0.37884778653729534
+k = 4
+Accuracy: 
+0.3787022437841116
+k = 5
+Accuracy: 
+0.3787022437841116
+k = 6
+Accuracy: 
+0.3785809581564585
+k = 7
+Accuracy: 
+0.3785809581564585
+k = 8
+Accuracy: 
+0.37831412977562157
+k = 9
+Accuracy: 
+0.37831412977562157
+k = 10
+Accuracy: 
+0.3781443298969072
+
+******size =100 ,window =2******
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.379114614918
+kernel = poly
+Accuracy: 
+0.0735476046089
+kernel = rbf
+Accuracy: 
+0.377513644633
+
+******size =100 window = 3******
+Doc2vec KNN:
+k = 3
+Accuracy: 
+0.3786537295330503
+k = 5
+Accuracy: 
+0.3786052152819891
+k = 7
+Accuracy: 
+0.37831412977562157
+k = 9
+Accuracy: 
+0.3782171012734991
+k = 10
+Accuracy: 
+0.3779502728926622
+
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.378944815039
+kernel = poly
+Accuracy: 
+0.0600121285628
+kernel = rbf
+Accuracy: 
+0.377707701637
+
+******size = 100,window = 1******
+Doc2vec KNN:
+k = 3
+Accuracy: 
+0.20150394178289874
+k = 5
+Accuracy: 
+0.16628259551243177
+k = 7
+Accuracy: 
+0.1393329290479078
+k = 9
+Accuracy: 
+0.11861734384475439
+k = 10
+Accuracy: 
+0.1023650697392359
+
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.246282595512
+kernel = poly
+Accuracy: 
+0.00303214069133
+kernel = rbf
+Accuracy: 
+0.268623408126
+
+******size = 100, window = 1,train all******
+Doc2vec LogReg:
+Accuracy: 
+0.933996361431
+Doc2vec KNN:
+k = 3
+Accuracy: 
+0.9972832019405701
+k = 5
+Accuracy: 
+0.9954881746513038
+k = 7
+Accuracy: 
+0.9941540327471194
+k = 9
+Accuracy: 
+0.9929169193450577
+k = 10
+Accuracy: 
+0.9916070345664039
+
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.946876895088
+kernel = poly
+Accuracy: 
+0.62035172832
+kernel = rbf
+Accuracy: 
+0.99359611886
+
+******size = 100, window = 2,train all******
+Doc2vec LogReg:
+Accuracy: 
+0.998956943602
+
+Doc2vec KNN:
+k = 3
+Accuracy: 
+0.9997331716191631
+k = 5
+Accuracy: 
+0.9996361431170406
+k = 7
+Accuracy: 
+0.9995876288659794
+k = 9
+Accuracy: 
+0.9994663432383263
+k = 10
+Accuracy: 
+0.9993935718617344
+
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.999684657368
+kernel = poly
+Accuracy: 
+0.620497271073
+kernel = rbf
+Accuracy: 
+0.999223771983
+
+******size = 100, window = 3,train all******
+Doc2vec LogReg:
+Accuracy: 
+0.999345057611
+Doc2vec KNN:
+k = 3
+Accuracy: 
+0.9999514857489388
+k = 5
+Accuracy: 
+0.9999272286234081
+k = 7
+Accuracy: 
+0.9998787143723469
+k = 9
+Accuracy: 
+0.9998302001212857
+k = 10
+Accuracy: 
+0.9998302001212857
+
+Doc2vec SVM:
+kernel = linear
+Accuracy: 
+0.999854457247
+kernel = poly
+Accuracy: 
+0.620861127956
+kernel = rbf
+Accuracy: 
+0.999587628866
